@@ -1,5 +1,5 @@
-runtime: python39
-env: standard
+runtime: custom
+env: flex
 runtime_config:
  python_version: 3
 manual_scaling:
